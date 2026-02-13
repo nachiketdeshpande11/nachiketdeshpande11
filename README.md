@@ -21,7 +21,8 @@ AWS Cloud Practitioner and AWS re/Start Graduate with hands-on experience in dep
 Skilled in core AWS services, Linux administration, networking fundamentals, and Docker-based deployments. Currently strengthening expertise in DevOps tools, CI/CD pipelines, and cloud automation practices.  
 
 Focused on building secure, efficient, and scalable cloud solutions with well-structured, maintainable infrastructure configurations.
-- 📂 Projects: [github.com/nachiketdeshpande11](https://github.com/nachiketdeshpande11)  
+
+- 📂 Projects: https://github.com/nachiketdeshpande11  
 - 📫 Email: **nachiketdeshpande.1103@gmail.com**
 
 ---
@@ -71,10 +72,4 @@ Focused on building secure, efficient, and scalable cloud solutions with well-st
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nachiketdeshpande11&label=Profile+Views&color=36BCF7&style=for-the-badge" />
-</p>
-
----
-
-⭐ *Building cloud solutions one deployment at a time!*  
+⭐ *Building cloud solutions one deployment at a time!*
